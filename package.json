@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riskycase/solana-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riskycase/solana-workshop/issues"
+  },
+  "homepage": "https://github.com/riskycase/solana-workshop#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
